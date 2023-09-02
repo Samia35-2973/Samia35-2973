@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samia35-2973&label=Profile%20views&color=0e75b6&style=flat" alt="samia35-2973" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samia35-2973" alt="samia35-2973" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samia35-2973&theme=gruvbox" alt="samia35-2973" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/samiahaquetish1" target="blank"><img src="https://img.shields.io/twitter/follow/samiahaquetish1?logo=twitter&style=for-the-badge" alt="samiahaquetish1" /></a> </p>
 
