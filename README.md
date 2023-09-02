@@ -51,8 +51,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.patreon.com/LearnDataSciencewithMe"> <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968732.png" height="50" width="210" alt="Samia Haque Tisha" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samia35-2973&show_icons=true&locale=en&layout=compact" alt="samia35-2973" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samia35-2973&show_icons=true&locale=en&layout=compact" alt="samia35-2973" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samia35-2973&show_icons=true&locale=en" alt="samia35-2973" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samia35-2973&show_icons=true&locale=en" alt="samia35-2973" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samia35-2973&" alt="samia35-2973" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samia35-2973&" alt="samia35-2973" /></p>
