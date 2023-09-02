@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samia Haque Tisha</h1>
 <h3 align="center">A problem solver, data science learner and an undergraduate student from Bangladesh</h3>
 
-<p align="center"><a href="https://komarev.com/ghpvc/?username=Samia35-2973">Profile Views</a></p>
+<img align="center" src="https://komarev.com/ghpvc/?username=Samia35-2973"> Profile Views
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samia35-2973&theme=gruvbox" alt="samia35-2973" /></a> </p>
 
