@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Samia Haque Tisha</h1>
 <h3 align="center">A problem solver, data science learner and an undergraduate student from Bangladesh</h3>
 
-<p align="center">
-  ![Profile views](https://komarev.com/ghpvc/?username=Samia35-2973)
-  ![GitHub followers](https://img.shields.io/github/followers/Samia35-2973?label=Followers&style=social)
-  ![GitHub contributions](https://img.shields.io/github/commit-activity/m/Samia35-2973?label=Contributions&style=flat-square)
-</p>
+
+![Profile views](https://komarev.com/ghpvc/?username=Samia35-2973)
+![GitHub followers](https://img.shields.io/github/followers/Samia35-2973?label=Followers&style=social)
+![GitHub contributions](https://img.shields.io/github/commit-activity/m/Samia35-2973?label=Contributions&style=flat-square)
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samia35-2973&theme=gruvbox" alt="samia35-2973" /></a> </p>
 
