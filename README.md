@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **samiatisha35@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/samia-haque-1596b51a7/](https://www.linkedin.com/in/samia-haque-1596b51a7/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/samia-haque-1596b51a7/](https://www.linkedin.com/in/samiahaquetisha/)
 
 - ⚡ Fun fact **Deadlines makes me Superhuman**
 
